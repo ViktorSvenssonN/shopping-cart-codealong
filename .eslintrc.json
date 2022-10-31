@@ -27,6 +27,7 @@
   "rules": {
     "arrow-body-style": "off",
     "class-methods-use-this": "off",
+    "linebreak-style": 0,
     "brace-style": [
       "error",
       "1tbs",
